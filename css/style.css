@@ -1,0 +1,29 @@
+.wrapper{
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+}
+
+.wrapper>*{
+    padding: 10px;
+    margin: 10px;
+    flex: 1 100%;
+    border-radius: 10px;
+}
+
+.header{
+    background: peachpuff;
+    height: 60px;
+}
+.main{
+    background: rgb(240, 209, 130);
+}
+
+.footer{
+    background:grey;
+}
+.aside1, .aside2, .aside3, .aside4, .aside5{
+    text-align: left;
+    background: rgb(171, 189, 246);
+    height: 300px;
+}
