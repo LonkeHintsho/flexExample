@@ -27,3 +27,12 @@
     background: rgb(171, 189, 246);
     height: 300px;
 }
+.item{
+    display: grid;
+    grid-template-rows: rem 1fr auto;
+}
+
+.item>img {
+    width: 10rem;
+    aspect-ratio: 1/1;
+}
