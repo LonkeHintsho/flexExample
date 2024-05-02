@@ -20,11 +20,11 @@
 }
 
 .footer{
-    background:grey;
+    background: peachpuff;
 }
 .aside1, .aside2, .aside3, .aside4, .aside5{
     text-align: left;
-    background: rgb(171, 189, 246);
+    background: rgb(135, 165, 165);
     height: 300px;
 }
 .item{
